@@ -1,0 +1,7 @@
+#Sun Apr 16 14:08:34 BST 2017
+base.0=C\:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8d2e29e3114c185db391a0c0dea3690965cfad6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a893a77a19de332d2282325ad5a2d87984c0b4e5\\classes.dex
+base.1=C\:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a893a77a19de332d2282325ad5a2d87984c0b4e5
+file.0=C\:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8d2e29e3114c185db391a0c0dea3690965cfad6e\\classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_en_gb.png",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\icon_en_gb.png"
+    },
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\keyboard_small.png",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\keyboard_small.png"
+    }
+]

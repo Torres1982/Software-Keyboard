@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<softkeyboard.LatinKeyboardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/keyboard"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:labelTextSize="18sp"
+        android:keyTextSize="35sp"
+        android:keyTextColor="@color/keyboard_label_color"
+        android:keyBackground="@drawable/key_background" />

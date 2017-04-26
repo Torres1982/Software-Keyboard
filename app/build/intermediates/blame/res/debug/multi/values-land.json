@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            }
+        ]
+    }
+]

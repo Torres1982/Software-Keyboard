@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_normal.xml",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable\\key_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_background.xml",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable\\key_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_clicked.xml",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable\\key_clicked.xml"
+    }
+]

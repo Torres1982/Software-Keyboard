@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_large.png",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\keyboard_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_en_gb.png",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\icon_en_gb.png"
+    },
+    {
+        "merged": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\keyboard_medium.png",
+        "source": "C:\\Users\\Torres\\AndroidStudioProjects\\MyKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\keyboard_medium.png"
+    }
+]
