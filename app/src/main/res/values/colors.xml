@@ -7,6 +7,6 @@
     <color name="candidate_background"> #bbffffff </color>
     <color name="keyboard_label_color"> #FFFF00 </color>
     <color name="keyboard_background_color"> #2F4F4F </color>
-    <color name="keyboard_blue"> #0000FF </color>
+    <color name="keyboard_blue"> #0CA1F9 </color>
     <color name="keyboard_grey"> #7E7E7E </color>
 </resources>
